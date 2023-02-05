@@ -1,0 +1,1 @@
+gsutil cp -r build/* gs://andrzejeknadzis/www/
